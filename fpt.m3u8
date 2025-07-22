@@ -1,4 +1,4 @@
-#EXTM3U Duy IPTV FPT 21/07/2025 
+#EXTM3U Duy IPTV FPT 22/07/2025
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
 #-------------------VTV-------------------#
 #EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 (HD 8Mbps)
@@ -786,7 +786,7 @@ udp://@225.1.1.76:30120
 #
 #
 #
-#EXTM3U Duy IPTV FPT 21/07/2025
+#EXTM3U Duy IPTV FPT 22/07/2025
 #-------------------VTV-------------------#
 #EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/6047gMa.jpg",VTV1 (HD 8Mbps)
 udp://@225.1.2.249:30120
@@ -1712,7 +1712,7 @@ udp://@225.1.4.84:30120
 #
 #
 #
-#EXTM3U Duy IPTV FPT 21/07/2025
+#EXTM3U Duy IPTV FPT 22/07/2025
 #EXTINF:-1 tvg-id="vtv1" tvg-name="VTV1 HD" tvg-logo="https://i.imgur.com/te4Rb7f.png" group-title="KÊNH VTV",VTV1 HD
 udp://@225.1.2.249:30120
 #EXTINF:-1 tvg-id="vtv2" tvg-name="VTV2 HD" tvg-logo="https://i.imgur.com/KmngEnt.png" group-title="KÊNH VTV",VTV2 HD
@@ -1954,7 +1954,7 @@ udp://@225.1.1.196:30120
 #
 #
 #
-#EXTM3U Duy IPTV FPT 21/07/2025
+#EXTM3U Duy IPTV FPT 22/07/2025
 #EXTINF:-1,MTV
 udp://@225.1.1.245:30120
 #EXTINF:-1,Animal Planet
